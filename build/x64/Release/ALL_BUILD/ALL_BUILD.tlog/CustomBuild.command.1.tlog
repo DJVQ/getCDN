@@ -1,0 +1,10 @@
+^D:\SFILES\C++\QT\GETCDN\CMAKELISTS.TXT
+setlocal
+D:\Tool\C++\cmake-3.23.2\bin\cmake.exe -SD:/SFiles/C++/Qt/getCDN -BD:/SFiles/C++/Qt/getCDN/build --check-stamp-file D:/SFiles/C++/Qt/getCDN/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+^D:\SFILES\C++\QT\GETCDN\BUILD\CMAKEFILES\BB4F3A2B8608C6EA69E827742D8ABAE7\GENERATE.STAMP.RULE
+setlocal
+D:\Tool\C++\cmake-3.23.2\bin\cmake.exe -SD:/SFiles/C++/Qt/getCDN -BD:/SFiles/C++/Qt/getCDN/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/SFiles/C++/Qt/getCDN/build/getCDN.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

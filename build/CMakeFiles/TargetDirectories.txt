@@ -1,0 +1,4 @@
+D:/SFiles/C++/Qt/getCDN/build/CMakeFiles/getCDN.dir
+D:/SFiles/C++/Qt/getCDN/build/CMakeFiles/INSTALL.dir
+D:/SFiles/C++/Qt/getCDN/build/CMakeFiles/ALL_BUILD.dir
+D:/SFiles/C++/Qt/getCDN/build/CMakeFiles/ZERO_CHECK.dir

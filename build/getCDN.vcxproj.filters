@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\SFiles\C++\Qt\getCDN\build\getCDN_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SFiles\C++\Qt\getCDN\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SFiles\C++\Qt\getCDN\mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SFiles\C++\Qt\getCDN\build\getCDN_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SFiles\C++\Qt\getCDN\build\getCDN_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SFiles\C++\Qt\getCDN\build\getCDN_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\SFiles\C++\Qt\getCDN\mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SFiles\C++\Qt\getCDN\build\getCDN_autogen\include_Debug\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SFiles\C++\Qt\getCDN\build\getCDN_autogen\include_Release\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SFiles\C++\Qt\getCDN\build\getCDN_autogen\include_MinSizeRel\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SFiles\C++\Qt\getCDN\build\getCDN_autogen\include_RelWithDebInfo\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\SFiles\C++\Qt\getCDN\build\CMakeFiles\70c5866174ab3546094abd4e1db2d76a\autouic_(CONFIG).stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SFiles\C++\Qt\getCDN\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\SFiles\C++\Qt\getCDN\mainwindow.ui" />
+    <None Include="D:\SFiles\C++\Qt\getCDN\build\getCDN_autogen\autouic_Debug.stamp" />
+    <None Include="D:\SFiles\C++\Qt\getCDN\build\getCDN_autogen\autouic_Release.stamp" />
+    <None Include="D:\SFiles\C++\Qt\getCDN\build\getCDN_autogen\autouic_MinSizeRel.stamp" />
+    <None Include="D:\SFiles\C++\Qt\getCDN\build\getCDN_autogen\autouic_RelWithDebInfo.stamp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\SFiles\C++\Qt\getCDN\app_win32.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F8B7BF03-803B-306E-B10E-C216B2034A2B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B57AC6CB-3C28-343B-A75C-627D6A14EAB6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AB22DFD8-8DF6-3346-9BA2-34396264796C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
